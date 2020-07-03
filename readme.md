@@ -9,4 +9,4 @@
 Для запуска  проекта клонируйте файлы из репозитория и откройте index.html в браузере.
 
 
-[1]: https://yandex.ru
+[1]: https://oxtopus501.github.io/sprint-10/
